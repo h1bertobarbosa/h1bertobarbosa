@@ -6,7 +6,6 @@ I am a backend developer who loves node.js
 
 * 🌍  I'm based in Sao Jose - SC
 * ✉️  You can contact me at [humberto.obarbosa@gmail.com](mailto:humberto.obarbosa@gmail.com)
-* 🚀  I'm currently working on [Nomad](https://www.nomadglobal.com/)
 * 🧠  I'm learning I'm learning Nest.js
 * 🤝  I'm open to collaborating on I'm open to collaborating on Projects
 
